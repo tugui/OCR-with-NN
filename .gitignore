@@ -1,0 +1,5 @@
+neural network/test2/
+neural network/octave-workspace/
+test.m
+*.png
+!test.png
